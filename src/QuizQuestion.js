@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import QuizQuestionButton from './QuizQuestionButton.js'
-import { throws } from 'assert';
 
 class QuizQuestion extends Component {
 
